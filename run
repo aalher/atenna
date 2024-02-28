@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+source ./tinygrad/bin/activate
+jupyter-lab
